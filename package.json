@@ -1,0 +1,32 @@
+{
+  "name": "adminjs-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@adminjs/express": "^5.1.0",
+    "@adminjs/mikroorm": "^2.0.0",
+    "@google/earthengine": "^0.1.346",
+    "@mikro-orm/core": "^5.6.15",
+    "@mikro-orm/postgresql": "^5.6.15",
+    "@types/cors": "^2.8.13",
+    "@types/dotenv": "^8.2.0",
+    "@types/uuid": "^9.0.1",
+    "adminjs": "^6.8.7",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-formidable": "^1.2.0",
+    "express-session": "^1.17.3",
+    "tslib": "^2.5.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "ts-node": "^10.9.1"
+  }
+}

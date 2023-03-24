@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "agristats-378216",
+  "private_key_id": "b464955961eba7124d1dbaa0872a416b206f2ae5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDk1w5WqUOFBDoy\nBTxp1Lw36auyZF6dVfUY8ty9iIl5L7krr5F+KOXFiJxNlG+F17fGMLuaGO7t6fux\nw8S9LDAzTqtUsQfZmdt60A49PugRqz/n99/PLXQTtSxRcB5MwxfC3Je4JLVElZ1J\nyawsEROL0V8EZUUwCePQtq+b9H+XWOzhYNa81tme2OUlUvw/uV4MzeTKGGTN6JAR\nZNbMZPsNcfLK4AT+/jKFiTM15D/mMlM4dZzoXl9RnmzwTRjZa19u9GqiNAa7sxdq\nTGxn79ez3xdnHY2+8ltExuqcuOFFUxKPINd3gw88KJ452vDL8CUJttmB5aNW5duD\nfHMoxnOhAgMBAAECggEAEXzzXDFThv/tlBrFFQfkSegWPlvwBJlX8ZwGvUfIzL12\nStXAGkp1E8lWu5GJS8rSYSeigJpg8QbZfKprt7K/rL4Zdw+P3GPnC13IxsquyMHj\n8H3niVFNjn+BF2iociCTKWm7AQAyJ5+A7Y2HVjdIXX4mwyLbnJoW4kGBzlrrIMVO\nlnht+MNRl+kSAHEs2u+ollUxQ83dACt8/zk3YgMg06O+ypKKlQ4DQf4URyCE9LWE\nI35H5RG8NJvc5UbPE+NjAlE1U/ZTZ6RdexgN0vPzCgLNsQJcHv4sHl070dDNd6w4\nwMm6/DJ1kNYvjE6TXKucoLKPyWjle5Q+ZeD/K/mWSQKBgQD1qGJgr+A5b5dRLTl9\n2nBLaeggB6IpUsVWqF6l3ebAr63PPF8lMresvYRVBLsQbhN5EfBC15s/u5WAKELI\n/46sLPpLFzRjrXNGQiVlcl6qRrrYwNGNsLahTtVRe0NxEJKDRqSrH0PPC/yxxCyQ\npBO/ogB+8zKqgHKImo6z4WW7eQKBgQDueWqYuM7QoRrm1NCysvqFhdF9iCptSk+n\nPoZCWZVieJJtY066v3XH8TZ3jnyoSRpk0SHOTqezAgeYgX3yTTdgQbd8+kx2Vq8J\nH2+H3o7byTGgWFuLjEKOqJiXnSl+UJzVpD+994daciJ1619BMyOt1mqYvVGfsGdG\nWuMgJf5HaQKBgHzC29PG/tWsuujbUwt72PQ0AVPjDJR4GQj90bPjksHhdyB8xMWb\nkHUGeyLCmE6r2O/wEFmiLpKbrj28NM7oG4mN/kAMtOq6uITCK0PuZe2MpnBW3RZc\n3SPnaadMNuBBTmelhRPzePi6WcfendOHwQ/eMupGkUDOo1yFQlxQ6N3hAoGBAMT6\nS19Mv5+6gxMJ1DzW83GY4DpVX94YVITrc1CY2HiW6TQrpBtDDFGT346Phk4m3ANM\nbyUO+Rw2X/nLdDHRMB11Cs/Tm5bf8QKTEbfj0JKgtDoi4bL5rvxRLIGHUn/ArFsX\nqYMLU6UUw3wtZ+feCumLQ09YiXRi7FtDtXmXiFqJAoGBAPCY4XSbSJSbcKK5fZP8\noZ6X189YUU3bmhcA4rddY6+qIX17dYqyDCYoiPscS3QgB3ZG/H1mcrosp+ziqhMw\ni1wZ/S6pkzQhn+NTY5IYQDWD3anyd4ABE90/ZdzKAoiARSZN6CLUJa+ORGp3zUOK\nV0fZMYDs21oT1YMapCAID073\n-----END PRIVATE KEY-----\n",
+  "client_email": "derickongeriee@agristats-378216.iam.gserviceaccount.com",
+  "client_id": "114804327932886828266",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/derickongeriee%40agristats-378216.iam.gserviceaccount.com"
+}

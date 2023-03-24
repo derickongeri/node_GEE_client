@@ -32,6 +32,7 @@ const PORT = 5000;
 
 const start = async () => {
   const app = express();
+  app.use(cors())
 
   const orm = await MikroORM.init(config);
   const adminOptions = {
@@ -50,6 +51,7 @@ const start = async () => {
   app.use(admin.options.rootPath, adminRouter);
 
   app.get("/api/mapid", [jsonParser, getGeeRaster]);
+  app.post("/api/mapid", [jsonParser, getGeeRaster]);
 
   app.listen(PORT, () => {
     console.log(
